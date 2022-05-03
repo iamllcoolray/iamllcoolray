@@ -1,10 +1,10 @@
 ### Hi there! 👋
 
-I am a Computer Science student from Miami, FL.
+A Computer Science student from Miami, FL. Passionate about learning and solving problems.
 
-* 🔭 I’m currently working on a few small projects to develop a more in-depth understanding on the software engineering processes.
+* 🔭 I'm currently working on a Free Dictionary API wrapper in Perl.
 
-* 🌱 I’m currently learning how to develop games with the Godot Game Engine.
+* 🌱 I’m currently learning C++ to develop games using SDL2.
 
 <br>
 
