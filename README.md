@@ -4,7 +4,7 @@ A Computer Science student from Miami, FL. Passionate about learning and solving
 
 * 🔭 I'm currently working on a Free Dictionary API wrapper in Perl.
 
-* 🌱 I’m currently learning C++ to develop games using SDL2.
+* 🌱 I’m currently learning Lua to develop games using the LÖVE2D framework.
 
 <br>
 
