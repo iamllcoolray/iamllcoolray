@@ -4,7 +4,7 @@ A Computer Science student from Miami, FL. Passionate about learning and solving
 
 * 🔭 I'm currently working on a Free Dictionary API wrapper in Rust.
 
-* 🌱 I’m currently learning to develop games using the Bevy game engine/framework.
+* 🌱 I’m currently learning how to develop games.
 
 <br>
 
