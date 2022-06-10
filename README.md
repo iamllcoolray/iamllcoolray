@@ -2,7 +2,7 @@
 
 A Computer Science student from Miami, FL. Passionate about learning and solving problems.
 
-* 🔭 I'm currently working on a Free Dictionary API wrapper in Rust.
+* 🔭 I'm currently working on a Free Dictionary API wrapper.
 
 * 🌱 I’m currently learning how to develop games.
 
