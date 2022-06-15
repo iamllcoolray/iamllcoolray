@@ -2,9 +2,9 @@
 
 A Computer Science student from Miami, FL. Passionate about learning and solving problems.
 
-* 🔭 I'm currently working on a Free Dictionary API wrapper.
+* 🔭 I'm currently working on multiple tools and projects.
 
-* 🌱 I’m currently learning how to develop games.
+* 🌱 I am learning how to develop 2D games.
 
 <br>
 
