@@ -1,10 +1,10 @@
 ### Hi there! 👋
 
-A Computer Science student from Miami, FL. Passionate about learning and solving problems.
+A supportive and enthusiastic team player dedicated to solving problems. Ability and willingness to innovate and learn new technologies, quick learner passionate about development.
 
 * 🔭 I'm currently working on multiple tools and projects.
 
-* 🌱 I am learning how to develop 2D games.
+* 🌱 I am also learning how to develop 2D games.
 
 <br>
 
