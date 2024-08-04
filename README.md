@@ -1,12 +1,12 @@
-### Hi there! 👋
+### Hello and welcome! 👋
 
-A supportive and enthusiastic team player dedicated to solving problems. Ability and willingness to innovate and learn new technologies, quick learner passionate about development.
-
-* 🔭 I'm currently working on multiple tools and projects.
-
-* 🌱 I am also learning how to develop 2D games.
+- 🌱 I am currently learning how to develop 2D games using Java and the [LITIENGINE](https://litiengine.com/).
 
 <br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamllcoolray&theme=dark&count_private=true&layout=compact)
+
+![iamllcoolray's github stats](https://github-readme-stats.vercel.app/api?username=iamllcoolray&count_private=true&show_icons=true&theme=dark&hide_border=false)
 
 <!--
 **iamllcoolray/iamllcoolray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,4 +22,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
