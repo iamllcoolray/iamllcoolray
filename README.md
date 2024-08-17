@@ -1,6 +1,6 @@
 ### Hello and welcome! 👋
 
-- 🌱 I am currently learning how to develop 2D games using Java [LibGDX](https://libgdx.com/) and Go [Ebitengine](https://ebitengine.org/).
+- 🌱 I am currently learning how to develop 2D games using Java [LibGDX](https://libgdx.com/) | [LITIENGINE](https://litiengine.com/) and Go [Ebitengine](https://ebitengine.org/).
 
 <br>
 
