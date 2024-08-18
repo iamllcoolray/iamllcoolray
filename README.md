@@ -4,9 +4,9 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamllcoolray&theme=dark&count_private=true&layout=compact)
-
 ![iamllcoolray's github stats](https://github-readme-stats.vercel.app/api?username=iamllcoolray&count_private=true&show_icons=true&theme=dark&hide_border=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamllcoolray&theme=dark&count_private=true&layout=compact)
 
 <!--
 **iamllcoolray/iamllcoolray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
