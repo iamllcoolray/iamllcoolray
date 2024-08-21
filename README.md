@@ -1,12 +1,16 @@
 ### Hello and welcome! 👋
 
-- 🌱 I am currently learning how to develop 2D games using Java [LITIENGINE](https://litiengine.com/) | [LibGDX](https://libgdx.com/) and Go [Ebitengine](https://ebitengine.org/).
+- 🔭 I am currently working on the development of 2D games written in Java
+  - [LibGDX](https://libgdx.com/)
+  - [LITIENGINE](https://litiengine.com/).
+- 🌱 I’m currently learning about Machine Learning and Deep Learning concepts using Python.
 
-<br>
+<hr>
 
 ![iamllcoolray's github stats](https://github-readme-stats.vercel.app/api?username=iamllcoolray&count_private=true&show_icons=true&theme=neon&hide_border=false&rank_icon=github)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamllcoolray&theme=neon&count_private=true&layout=compact&hide_progress=true&langs_count=20)
+
+<hr>
 
 <!--
 **iamllcoolray/iamllcoolray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
