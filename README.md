@@ -1,8 +1,6 @@
 ### Hello and welcome! 👋
 
-- 🔭 I am currently working on the development of 2D games written in Java
-  - [LibGDX](https://libgdx.com/)
-  - [LITIENGINE](https://litiengine.com/).
+- 🔭 I am currently working on the development of 2D games.
 - 🌱 I’m currently learning about Machine Learning and Deep Learning concepts using Python.
 
 <hr>
